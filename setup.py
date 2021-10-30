@@ -54,12 +54,12 @@ packages = [
 ]
 
 setup(
-    name="discord.py",
-    author="Rapptz",
-    url="https://github.com/Rapptz/discord.py",
+    name="enhanced-discord.py",
+    author="IDevision",
+    url="https://github.com/iDevision/enhanced-discord.py",
     project_urls={
-        "Documentation": "https://discordpy.readthedocs.io/en/latest/",
-        "Issue tracker": "https://github.com/Rapptz/discord.py/issues",
+        "Documentation": "https://enhanced-dpy.readthedocs.io/en/latest",
+        "Issue tracker": "https://github.com/iDevision/enhanced-discord.py/issues",
     },
     version=version,
     packages=packages,
